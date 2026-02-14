@@ -21,7 +21,7 @@ A typical 10-person product team breaks down something like this:
 - 1 DevOps engineer
 - 2 managers/coordinators
 
-With AI as an amplifier, that same output now requires 4 people. Not in theory. Not eventually. Now. The work still gets done. The features still ship. You just don't need ten people anymore.
+With AI as an amplifier, that same output now requires 4-6 people. Not in theory. Not eventually. Now. The work still gets done. The features still ship. You just don't need ten people anymore.
 
 This isn't about AI "taking jobs" in some autonomous robot sense. It's about AI making individual humans so much more productive that you need far fewer of them.
 
@@ -98,7 +98,7 @@ Interviews will shift from "can you code?" to "can you ship?" It's a matter of w
 
 When they update their evaluation criteria, they'll also update their hiring models. And they'll hire far fewer people.
 
-I'm  already hiring judge candidates based on depth of understanding, not rote memorization of algorithms.
+I have begun hiring based on value and thought, rather than memorized algorithms or task-based work.
 
 ## What I'm Actually Concerned About
 
