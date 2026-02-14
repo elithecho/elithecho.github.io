@@ -9,7 +9,7 @@ title: Home
 </header>
 
 <p class="x-line"><a href="https://www.linkedin.com/in/elijahgohch/">linkedin</a></p>
-<p class="lead">I partner with founders and operators to turn ideas into shipped products and scalable systems.</p>
+<p class="lead">I help founders make sense of their technology and enhance teams with AI-augmented engineering to ship faster.</p>
 
 <section>
   <h2>about</h2>
