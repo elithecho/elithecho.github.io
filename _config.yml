@@ -2,5 +2,6 @@ title: Elijah
 description: Elijah - Software Engineer
 markdown: kramdown
 permalink: pretty
+future: true
 exclude:
   - CLAUDE.md
