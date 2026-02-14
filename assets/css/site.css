@@ -94,6 +94,34 @@ section {
   margin: 0.5rem 0;
 }
 
+.post-header {
+  margin-bottom: 2.5rem;
+}
+
+.post-nav {
+  margin-bottom: 1.2rem;
+}
+
+.post-nav a {
+  color: var(--muted);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.post-nav a:hover {
+  color: var(--link);
+}
+
+.post-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.post-date {
+  display: block;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 @media (max-width: 640px) {
   .page {
     padding-top: 2.6rem;
