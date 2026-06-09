@@ -10,6 +10,13 @@ permalink: /blog/
 </header>
 
 <section>
+  <h2>pages</h2>
+  <ul class="blog-list">
+    <li><a href="{{ '/agent-profile.html' | relative_url }}">builder profile</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>posts</h2>
   {% if site.posts.size > 0 %}
     <ul class="blog-list">
