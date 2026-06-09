@@ -20,6 +20,8 @@ title: Home
 
 <section>
   <h2>work</h2>
+  <p><strong>CTO @ <a href="https://getpaperbase.com">paperbase</a></strong></p>
+  <p>enterprise SaaS // AI-native document platform</p>
   <p><strong>CTO @ a440</strong></p>
   <p>venture builder // technical strategy // product engineering</p>
   <p>ex tech lead em @ aon (2021-2026)</p>
